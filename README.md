@@ -32,6 +32,7 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 
 ## General GIS Features
 ### Zoom Level
+
 ### Dialogue Boxes
 ### Search Bar
 ### Keyboard Shortcuts
