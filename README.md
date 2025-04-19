@@ -23,7 +23,7 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 ### Green Space Explorer in Urban Cities
 ![image](https://github.com/user-attachments/assets/42117393-e42c-456a-888c-d6a35c630ee1)
 
-### "Greenest" Car Route for Multi-Destination Navigation
+### Navigation For "Greenest" Car Routes
 ### Focus on Environmentally Friendly Commuting
 ![image](https://github.com/user-attachments/assets/31e87cc4-9635-48ee-8f31-23b2790ca8be)
 ![image](https://github.com/user-attachments/assets/a3f0be1d-88d8-4877-98dd-ab5e496bbed6)
@@ -33,6 +33,7 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 ### Dialogue Boxes
 ### Search Bar
 ### Keyboard Shortcuts
+![image](https://github.com/user-attachments/assets/5978d652-2dc5-4bc9-a70f-99ee4ec49f38)
 ### Additional Map Graphics
 
 # References
