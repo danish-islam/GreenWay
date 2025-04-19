@@ -24,6 +24,8 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 ![image](https://github.com/user-attachments/assets/42117393-e42c-456a-888c-d6a35c630ee1)
 
 ### Navigation For "Greenest" Car Routes
+#### Point to Point Navigation
+#### Travelling Salesman Problem
 ### Focus on Environmentally Friendly Commuting
 ![image](https://github.com/user-attachments/assets/31e87cc4-9635-48ee-8f31-23b2790ca8be)
 ![image](https://github.com/user-attachments/assets/a3f0be1d-88d8-4877-98dd-ab5e496bbed6)
@@ -34,7 +36,11 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 ### Search Bar
 ### Keyboard Shortcuts
 ![image](https://github.com/user-attachments/assets/5978d652-2dc5-4bc9-a70f-99ee4ec49f38)
-### Additional Map Graphics
+### Colour coded elements (e.g. water, greenspace, different road types)
+![image](https://github.com/user-attachments/assets/ef269736-30f0-469f-8026-d1bcd009a34d)
+### Night Mode
+![image](https://github.com/user-attachments/assets/c7f24f04-44d8-42a1-816b-d922761b7a5d)
+
 
 # References
 1. M. Hrobsky and L. Eskin, “City of Toronto Climate Change Perceptions Research,” Ipsos, 2022. [Online]. Available: https://www.toronto.ca/wp-content/uploads/2022/03/96f2-City-of-TorontoClimate-Change-Report-FINAL.pdf. [Accessed: 28-Apr-2023].
