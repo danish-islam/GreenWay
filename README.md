@@ -21,26 +21,42 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 # Features
 ## Environmentalism-Focused Features
 ### Green Space Explorer in Urban Cities
-![image](https://github.com/user-attachments/assets/42117393-e42c-456a-888c-d6a35c630ee1)
+<img src="media/queens_park_greenspace.png" width="400"/>
 
 ### Navigation For "Greenest" Car Routes
 #### Point to Point Navigation
+Click between two points to find path:
+<img src="media/click_two_intersections.gif" width="400"/>
+
+Type in two intersections to find path:
+<img src="media/type_two_intersections.gif" width="400"/>
+
 #### Travelling Salesman Problem
+To fill out...
 ### Focus on Environmentally Friendly Commuting
-![image](https://github.com/user-attachments/assets/31e87cc4-9635-48ee-8f31-23b2790ca8be)
-![image](https://github.com/user-attachments/assets/a3f0be1d-88d8-4877-98dd-ab5e496bbed6)
+Subway routes:<br>
+<img src="media/subway_display.png" width="400"/><br>
+Bike routes:<br>
+<img src="media/bike-lanes.png" width="400"/>
 
 ## General GIS Features
 ### Zoom Level
+<img src="media/zoom_level1.gif" width="400"/>
 
 ### Dialogue Boxes
+<img src="media/dialog_box.gif" width="400"/>
+
 ### Search Bar
+<img src="media/search_bar1.gif" width="400"/>
+
 ### Keyboard Shortcuts
-![image](https://github.com/user-attachments/assets/5978d652-2dc5-4bc9-a70f-99ee4ec49f38)
+<img src="media/keyboard-shortcuts.png" width="400"/>
+
 ### Colour coded elements (e.g. water, greenspace, different road types)
-![image](https://github.com/user-attachments/assets/ef269736-30f0-469f-8026-d1bcd009a34d)
+<img src="media/colour_coded_elements.png" width="400"/>
+
 ### Night Mode
-![image](https://github.com/user-attachments/assets/c7f24f04-44d8-42a1-816b-d922761b7a5d)
+<img src="media/night_mode.png" width="400"/>
 
 
 # References
