@@ -25,10 +25,10 @@ Our team aimed to create a map that promotes environmental sustainability in urb
 
 ### Navigation For "Greenest" Car Routes
 #### Point to Point Navigation
-Click between two points to find path:
+Click between two points to find path:<br>
 <img src="media/click_two_intersections.gif" width="400"/>
 
-Type in two intersections to find path:
+Type in two intersections to find path:<br>
 <img src="media/type_two_intersections.gif" width="400"/>
 
 #### Travelling Courier Problem
