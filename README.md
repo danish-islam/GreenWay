@@ -31,8 +31,16 @@ Click between two points to find path:
 Type in two intersections to find path:
 <img src="media/type_two_intersections.gif" width="400"/>
 
-#### Travelling Salesman Problem
-To fill out...
+#### Travelling Courier Problem
+This course required our codebase to have an API for the Travelling Courier problem. The Travelling Courier problem involves the following:
+1. A courier company has M depots, where the truck driver can start their day at any depot and finish at any depot.
+2. The truck needs to make N deliveries, with each delivery having a pickup location and a drop-off location. Drop-offs can happen in any order.
+3. The objective is to find the optimal route that takes the least time to make all the deliveries.
+
+The API was tested with test cases developed by the ECE297 team, with tests ranging from 5 deliveries to up to 200 deliveries.
+
+Our team built a robust solution based on a modified version of the multi-destination Dijkstra's algorithm with multi-start, where we test different start points in the given time interval for computation.
+
 ### Focus on Environmentally Friendly Commuting
 Subway routes:<br>
 <img src="media/subway_display.png" width="400"/><br>
